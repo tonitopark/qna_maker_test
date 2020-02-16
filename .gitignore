@@ -1,1 +1,9 @@
 # .gitignore
+qna_venv/
+.vscode/
+faq_all.json
+intent_description.json
+keys.txt
+kb_quickstart.py
+kb_chatty_back.py
+create_back.py
